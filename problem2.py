@@ -8,6 +8,5 @@ for tc in range(1, T+1):
     elif A == B:
         print("#%d =" %tc)
     else:
-        print("#%d >" %tc)
-
-        
+        print("#%d >" %tc)        
+    
