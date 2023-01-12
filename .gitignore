@@ -1,6 +1,16 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
+
+# 확장자가 txt인 파일 무시
+# *.txt 
+
+#secret/ 디렉토리에 있는 모든 파일 무시
+secret/
+
+# !fmf tkdydgotj antlgkwl dksgdmf vkdlf cnrk
+# !d.txt
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
